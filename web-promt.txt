@@ -1,0 +1,21 @@
+Sporx admin panelinin sol menü yapısı aşağıdaki gibi olacaktır
+- Sabit sayfalar
+    *Hakkında
+    *Banner
+- Duyurular
+- Kurslar
+    *Kategorileri
+    *Kurs içerikleri
+    *Kurs takvimi
+    *Başvurular
+- Kişiler
+    *Eğitmenler
+    *Sporcular
+- İletişim mesajları
+- Portal kullanıcıları
+
+Üst menü olarak profil, oturumu kapat menüleri olsun
+ - Profil kısmında kullanıcı adı soyasını, şifresini 
+ değiştirebileceği bir alan olacaktır 
+
+ Vite+React ve TypeScript

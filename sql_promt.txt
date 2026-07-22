@@ -1,0 +1,16 @@
+Sporx isminde bir fitness salonu merkezi
+için bir web sayfamız vardır.
+
+- Spor yapmak isteyen kişiler tablosu
+- Spor eğitimlerin kategori tablosu
+- Spor eğitimlerin listelendiği içerik tablosu
+- Spor eğitim tarihlerine göre kayıt tablosu
+- Sporcuların eğitimlere başvuru yaptığı listeyi tutan tablosu
+- Portal kullanıcı tablosu (admin, eğitmen, sporcu rollerinde)
+- İletişim bölümünden yazılanların tutulduğu tablo
+- Duyuruların kaydının tutulduğu tablo
+
+Bu şekilde kurgulanmış bir portal için gerekli veritabanı modelini
+ tablo ve detayları ile oluşturacak şekilde 
+ve mariadbye import edebilecek şekilde SQL çıktısını üret.
+- Gerekli primary key, index ve foreign key detayları ile oluştur
